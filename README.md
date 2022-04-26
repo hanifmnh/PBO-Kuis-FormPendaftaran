@@ -1,7 +1,7 @@
 # PBO-Kuis-FormPendaftaran
 [Praktikum Pemrograman Berorientasi Objek]
 
-Pengumpulan Tugas 4 : Program Seleksi Divisi
+Pengumpulan Kuis : Program Seleksi Divisi
 
 # Identitas
 Nama : Muhammad Nur Hanif
