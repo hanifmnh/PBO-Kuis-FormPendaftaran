@@ -8,7 +8,7 @@ Nama : Muhammad Nur Hanif
 
 NIM : 123200123
 
-Kelas : PBO IF-D
+Kelas : PBO IF-F
 
 # Studi Kasus
 Buatlah sebuah program sederhana tentang seleksi divisi Android development & Web development di sebuah perusahaan.
